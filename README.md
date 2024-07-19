@@ -89,3 +89,6 @@ More code samples can be found in the examples directory.
 
 ## License
 Licensed under the MIT License.
+
+## Sample commit
+Commit 1
